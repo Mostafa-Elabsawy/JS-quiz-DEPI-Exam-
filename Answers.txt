@@ -1,77 +1,77 @@
-*************15 Questions***************
-page 1
+=======================================
+|JavaScript quiz — 15 Questions Answers|
+=======================================
+
+Page #1
+
 Q1:
-output:[ 650, 440, 120, 40 ]
+[650, 440, 120, 40]
 
 Q2:
-output:27
+27
 
---------------------------------------------
-page 2
+---------------------------------------------
+Page #2
 
 Q3:
-output:30
+30
 
 Q4:
-output:[ 59.52, 83.7, 93 ]
+[59.52, 83.7, 93]
 
 Q5:
-output: true false
+true
+false
 
---------------------------------------------
-page 3
+---------------------------------------------
+Page #3
 
 Q6:
-output: error
-explaintion: cannot reassign a const value
+Error: Cannot reassign a const value.
 
 Q7:
-output:[ 'Batman', 'Bane']
+['Batman', 'Bane']
 
-----------------------------
-page 4
+------------------------------------------------
+Page #4
 
 Q8:
-output:
-    number
-    object
-    undefined
-    object
-    object
+number
+function
+undefined
+object
+object
 
-Q9:display mouse cords in 2 p elments inside and elemnt named Demo
+Q9:
+Display mouse coordinates in 2 `<p>` elements inside an element named Demo.
 
 Q10:
-output:
-    "Anonymous"
-    18
-    ""
-    0
+"Anonymous"
+18
+""
+0
 
----------------------------------------
-page 5
+---------------------------------------------
+Page #5
 
 Q11:
-output:
-    [ 'white', 'black', 'gray' ]
-    false
+['white', 'black', 'gray']
+false
 
 Q12:
-output:
-    2
-    undefined
+2
+undefined
 
 Q13:
-output:
-    {firstName:'john',lastName:'doe'}
-    undefined
+{ firstName: 'john', lastName: 'doe' }
+undefined
 
------------------------------------------------
-page 6
+------------------------------------------------
+Page #6
 
 Q14:
-output:50
-Q15:
-output:[ john: 2, jack: 2 ]
+50
 
+Q15:
+[ john: 2, jack: 2 ]
 
